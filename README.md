@@ -1,8 +1,3 @@
-Perfect 🚀 — since your local structure is set, the next step is to craft a **professional README.md** that reflects the lifecycle flow, looks polished for recruiters, and will serve as the landing page when we push to GitHub later.
-
-Here’s a starter `README.md` you can drop directly into your `credit_risk/` folder:
-
----
 
 ```markdown
 # Credit Risk Modeling: Can We Predict Loan Defaults Before They Happen?
@@ -91,3 +86,4 @@ credit\_risk/
 - [LinkedIn](https://www.linkedin.com/in/francis-kim-1931681b6/)  
 - [GitHub](https://github.com/francisblessedkim)  
 - [Medium](https://medium.com/@kimblessedfrancis)  
+
