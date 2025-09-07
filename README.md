@@ -1,5 +1,5 @@
 
-Credit Risk Modeling: Can We Predict Loan Defaults Before They Happen?
+# Credit Risk Modeling: Can We Predict Loan Defaults Before They Happen?
 
 ## 📌 Project Overview
 This project explores one of the most critical challenges in finance and fintech: **loan defaults**. Financial institutions face billions in losses every year due to borrowers failing to repay their loans. Striking the right balance between lending responsibly and expanding financial inclusion is an ongoing challenge.  
@@ -85,5 +85,6 @@ credit\_risk/
 - [LinkedIn](https://www.linkedin.com/in/francis-kim-1931681b6/)  
 - [GitHub](https://github.com/francisblessedkim)  
 - [Medium](https://medium.com/@kimblessedfrancis)  
+
 
 
