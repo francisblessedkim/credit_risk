@@ -27,6 +27,14 @@ The dataset must be large enough to capture rare but critical default events, cl
 
 For this project, I will be working with real-world LendingClub loan data, which provides millions of applications and repayment outcomes, making it a suitable foundation for this model.  
 
+### 4. Data Collection & Understanding 
+
+After exploring multiple data sources, I chose the Fannie Mae Single-Family Loan Performance dataset as the foundation for this project.
+Because each quarter’s data is several gigabytes in size, I’m starting with Q1 2022 as a complete case study. This allows me to design, clean, and model the entire pipeline using free resources (Kaggle + local environment) before scaling to additional quarters.
+
+The Q1 2022 dataset captures detailed borrower, loan, property, and monthly performance information. Each loan appears across several months, enabling me to engineer a clear target label — default (1) if a loan becomes 90+ days delinquent within 12 months of origination, otherwise no default (0).
+
+Initial findings highlight common data-science challenges: missing values, extreme numeric ranges, and class imbalance between defaulted and non-defaulted loans. These insights will guide feature engineering, imputation, and resampling strategies in the next stage (Data Preparation).
 ---
 
 ## Repository Structure
@@ -91,4 +99,5 @@ credit\_risk/
 ```
 
 ---
+
 
